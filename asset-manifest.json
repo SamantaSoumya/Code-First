@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Code-First/static/css/main.5720ea93.css",
+    "main.js": "/Code-First/static/js/main.c43f34e6.js",
+    "static/js/787.ecb7c71a.chunk.js": "/Code-First/static/js/787.ecb7c71a.chunk.js",
+    "index.html": "/Code-First/index.html",
+    "main.5720ea93.css.map": "/Code-First/static/css/main.5720ea93.css.map",
+    "main.c43f34e6.js.map": "/Code-First/static/js/main.c43f34e6.js.map",
+    "787.ecb7c71a.chunk.js.map": "/Code-First/static/js/787.ecb7c71a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720ea93.css",
+    "static/js/main.c43f34e6.js"
+  ]
+}
